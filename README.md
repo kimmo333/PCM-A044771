@@ -1,7 +1,7 @@
 # PCM-A044771
 # Caderno Digital — Edição de Imagem (GIMP)
 
-Documentação do processo de desenvolvimento, recursos utilizados e variações criadas para os cinco exercícios práticos desenvolvidos no **GIMP 3.x**.
+Documentação do processo de desenvolvimento, recursos utilizados e variações criadas para os cinco exercícios práticos desenvolvidos no **GIMP**.
 
 ---
 
