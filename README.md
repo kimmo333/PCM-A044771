@@ -4,6 +4,6 @@ Repositório destinado à documentação e entrega dos exercícios práticos da 
 
 ## Trabalhos Realizados
 
-| Módulo / Exercício | Ferramentas | Documentação e Processo |
+| Exercício | Ferramentas | Documentação e Processo |
 | :--- | :--- | :--- |
 | **01. Edição de Imagem (Trabalhos A, C, D, Y e Z)** | GIMP | [Ver Caderno Digital &rarr;](01-edicao-imagem-gimp/) |
