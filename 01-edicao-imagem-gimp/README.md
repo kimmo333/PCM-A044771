@@ -53,7 +53,7 @@ Documentação do processo de desenvolvimento, recursos utilizados e variações
 ## Trabalho Y — Cartaz de Evento (Formato A3)
 
 - **Fotografia utilizada:** [Comandos Gaming (Pixabay)](https://pixabay.com/pt/photos/console-de-jogo-sony-videogames-6603120/)
-- **Logótipo utilizado:** [Logótipo Oficial IPMAIA](https://www.facebook.com/ipmaiactespcor/?locale=pt_BR)
+- **Logótipo utilizado:** [Logótipo Oficial IPMAIA]
 - **Técnicas aplicadas:** Composição em formato A3 (300 ppi), integração de imagem fotográfica com rodapé institucional, hierarquia tipográfica (título, slogan, data, local e bilheteira).
 
 ### Processo em Curso (Prints)
