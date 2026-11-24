@@ -37,7 +37,8 @@ Documentação do processo de desenvolvimento, recursos utilizados e variações
 
 ## Trabalho D — Cartão de Visita (Frente e Verso)
 
-- **Logótipo utilizado:** [Logótipo Oficial IPMAIA](https://www.facebook.com/ipmaiactespcor/?locale=pt_BR)
+- **Logótipo utilizado:** [Logótipo Oficial IPMAIA]
+- 
 - **Técnicas aplicadas:** Paginação frente e verso (600 ppi), alinhamento geométrico, identidade visual institucional e gestão de camadas de texto e formas.
 
 ### Processo em Curso (Prints)
